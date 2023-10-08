@@ -1,0 +1,2372 @@
+[
+  {
+    "reading": [
+      {
+        "id": "538e85a0-416e-4ee6-8ec4-305fd01d5045",
+        "date": "2023-10-08T15:08:42.306Z",
+        "duration": 87391,
+        "topic": "Love",
+        "created_at": "2023-10-08T14:14:32.067Z",
+        "updated_at": "2023-10-08T14:43:59.777Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c7d1156a-1dc1-4d7e-a811-c608bc00ba5e",
+        "date": "2023-10-08T18:25:28.402Z",
+        "duration": 39476,
+        "topic": "Career",
+        "created_at": "2023-10-08T16:26:18.521Z",
+        "updated_at": "2023-10-08T02:18:01.351Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "168f2a18-2f32-4b4b-9b41-b4ed21fa486f",
+        "date": "2023-10-07T20:13:19.491Z",
+        "duration": 15617,
+        "topic": "Health",
+        "created_at": "2023-10-08T00:00:46.350Z",
+        "updated_at": "2023-10-08T12:49:23.090Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7bfd9d34-a2f8-432f-bae5-a87d75185f53",
+        "date": "2023-10-07T23:58:00.587Z",
+        "duration": 34606,
+        "topic": "Finance",
+        "created_at": "2023-10-08T18:46:26.319Z",
+        "updated_at": "2023-10-08T15:16:54.087Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "796e729b-2d56-494c-9104-051078103561",
+        "date": "2023-10-08T02:31:35.062Z",
+        "duration": 618,
+        "topic": "Relationships",
+        "created_at": "2023-10-08T02:42:00.203Z",
+        "updated_at": "2023-10-07T23:00:11.234Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "8959ec14-982f-473d-8f44-65609a6f3d5b",
+        "sun_sign": "Aries",
+        "moon_sign": "Scorpio",
+        "rising_sign": "Libra",
+        "created_at": "2023-10-07T20:08:44.349Z",
+        "updated_at": "2023-10-07T20:28:34.663Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a90fb48-1871-4afe-8737-da4dac4c6308",
+        "sun_sign": "Taurus",
+        "moon_sign": "Sagittarius",
+        "rising_sign": "Virgo",
+        "created_at": "2023-10-08T17:28:27.593Z",
+        "updated_at": "2023-10-08T16:36:03.864Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f2d8d9fc-48ff-47de-9c43-a83722f9d0cb",
+        "sun_sign": "Gemini",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Leo",
+        "created_at": "2023-10-08T03:36:45.863Z",
+        "updated_at": "2023-10-07T19:35:13.972Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b8f8e0e9-035e-4f90-b7e0-b513a7afdb90",
+        "sun_sign": "Cancer",
+        "moon_sign": "Aquarius",
+        "rising_sign": "Cancer",
+        "created_at": "2023-10-08T14:55:33.925Z",
+        "updated_at": "2023-10-07T19:19:53.836Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f996df35-b2f1-4bb0-9e81-5842fe22ac93",
+        "sun_sign": "Leo",
+        "moon_sign": "Pisces",
+        "rising_sign": "Gemini",
+        "created_at": "2023-10-08T11:12:55.166Z",
+        "updated_at": "2023-10-07T20:22:15.609Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "aac1a819-cd65-4e0c-8ee4-2b4c0a0b2f70",
+        "name": "Emily Davis",
+        "experience_years": 8307,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-08T05:51:19.453Z",
+        "updated_at": "2023-10-07T21:30:49.141Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54de2730-02d8-45f2-8ceb-4cc179665ea7",
+        "name": "Daniel Thompson",
+        "experience_years": 3329,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-08T11:16:24.071Z",
+        "updated_at": "2023-10-08T15:30:26.966Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dcfaeca0-d0f5-4558-b515-2c2e58d17540",
+        "name": "Sophia Roberts",
+        "experience_years": 44477,
+        "specialization": "Health and Wellness",
+        "created_at": "2023-10-07T23:27:40.971Z",
+        "updated_at": "2023-10-08T05:44:23.017Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64adef8b-60c9-45cd-baad-af1e5568667f",
+        "name": "Oliver Johnson",
+        "experience_years": 79933,
+        "specialization": "Astrological Guidance",
+        "created_at": "2023-10-08T10:52:37.075Z",
+        "updated_at": "2023-10-08T06:06:46.921Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a79709b4-7068-47a0-b61b-656ed34437fa",
+        "name": "Ava Wilson",
+        "experience_years": 68680,
+        "specialization": "Spiritual Awakening",
+        "created_at": "2023-10-08T00:18:54.209Z",
+        "updated_at": "2023-10-08T03:34:41.139Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "bd263733-d908-4089-814d-90659db65015",
+        "message": "Hello!",
+        "sent_at": "2023-10-08T12:47:11.203Z",
+        "created_at": "2023-10-08T07:12:08.855Z",
+        "updated_at": "2023-10-07T20:51:18.791Z",
+        "astrologer_id": "54de2730-02d8-45f2-8ceb-4cc179665ea7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29ab0f75-8c3b-40f8-86c2-b2d48d6e0c89",
+        "message": "How can I assist you?",
+        "sent_at": "2023-10-08T11:29:36.873Z",
+        "created_at": "2023-10-07T23:12:30.927Z",
+        "updated_at": "2023-10-08T10:08:07.490Z",
+        "astrologer_id": "54de2730-02d8-45f2-8ceb-4cc179665ea7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6677bdb3-6c69-4a3f-ae68-9eb6357d7c7f",
+        "message": "I have some insights for you.",
+        "sent_at": "2023-10-08T08:53:29.306Z",
+        "created_at": "2023-10-08T08:59:23.895Z",
+        "updated_at": "2023-10-08T18:31:37.192Z",
+        "astrologer_id": "aac1a819-cd65-4e0c-8ee4-2b4c0a0b2f70",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "52716132-a496-486f-9867-d59cbf6156e6",
+        "message": "Let's dive into your birth chart.",
+        "sent_at": "2023-10-08T15:51:17.803Z",
+        "created_at": "2023-10-08T10:11:19.685Z",
+        "updated_at": "2023-10-07T21:16:16.082Z",
+        "astrologer_id": "aac1a819-cd65-4e0c-8ee4-2b4c0a0b2f70",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30114c5f-c9c4-4afe-adbd-22d4bb8a5f65",
+        "message": "What questions do you have?",
+        "sent_at": "2023-10-08T02:04:37.963Z",
+        "created_at": "2023-10-08T12:57:33.263Z",
+        "updated_at": "2023-10-08T13:30:14.460Z",
+        "astrologer_id": "64adef8b-60c9-45cd-baad-af1e5568667f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "82277897-e480-40cd-ae03-4dd9379debd8",
+        "email": "Marlen60@roq.tech",
+        "firstName": "Gavin",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21315617",
+        "tenantId": null
+      },
+      {
+        "reference": "b469e3f6-cd50-4458-b4da-4fa62ae135e8",
+        "email": "Danial_Adams55@roq.tech",
+        "firstName": "Madilyn",
+        "lastName": "Stroman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/988.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b372e545-392f-440a-977e-044e54b9a768",
+        "email": "Lamont_Bergstrom@roq.tech",
+        "firstName": "Ignacio",
+        "lastName": "Walker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/829.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e5143a97-bd3f-457f-850b-907485d88b60",
+        "email": "Rodolfo.Lesch60@roq.tech",
+        "firstName": "Juvenal",
+        "lastName": "Bartell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/675.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "543d8eff-9c72-4131-bbdf-49338a9d1175",
+        "email": "Ayana92@roq.tech",
+        "firstName": "Aimee",
+        "lastName": "Botsford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35975204",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reading": [
+      {
+        "id": "3e6e50d9-87d4-42ea-b412-bdf9b1246662",
+        "date": "2023-10-08T17:45:52.770Z",
+        "duration": 85096,
+        "topic": "Love",
+        "created_at": "2023-10-08T04:01:06.462Z",
+        "updated_at": "2023-10-08T04:52:43.222Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2826162b-a4b9-4d44-bc44-6192ca5931aa",
+        "date": "2023-10-08T03:04:41.998Z",
+        "duration": 46163,
+        "topic": "Career",
+        "created_at": "2023-10-08T10:30:39.204Z",
+        "updated_at": "2023-10-08T05:51:08.715Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff5574c3-c27c-43ae-a23c-eaf8cca95b77",
+        "date": "2023-10-08T08:16:11.558Z",
+        "duration": 26385,
+        "topic": "Health",
+        "created_at": "2023-10-08T05:46:26.754Z",
+        "updated_at": "2023-10-08T05:57:29.562Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c78fce8a-3d88-47c3-aa2a-2baa6fa22690",
+        "date": "2023-10-08T17:48:19.279Z",
+        "duration": 87017,
+        "topic": "Finance",
+        "created_at": "2023-10-08T12:51:11.919Z",
+        "updated_at": "2023-10-07T19:31:17.118Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d9f61807-32d5-457d-a667-cd226229a272",
+        "date": "2023-10-08T03:12:40.677Z",
+        "duration": 29388,
+        "topic": "Relationships",
+        "created_at": "2023-10-08T10:33:40.903Z",
+        "updated_at": "2023-10-08T07:15:18.679Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "02fa9c3e-c4bf-49d1-940b-c21f8d8484fd",
+        "sun_sign": "Aries",
+        "moon_sign": "Virgo",
+        "rising_sign": "Aquarius",
+        "created_at": "2023-10-08T09:04:17.772Z",
+        "updated_at": "2023-10-08T07:53:48.054Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68622133-591d-4484-b07a-90aa2420efc5",
+        "sun_sign": "Taurus",
+        "moon_sign": "Libra",
+        "rising_sign": "Pisces",
+        "created_at": "2023-10-08T13:10:06.228Z",
+        "updated_at": "2023-10-08T09:30:53.229Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "024cb147-4d40-4dc0-af6b-05540beb5f5f",
+        "sun_sign": "Gemini",
+        "moon_sign": "Scorpio",
+        "rising_sign": "Aries",
+        "created_at": "2023-10-08T12:28:39.099Z",
+        "updated_at": "2023-10-08T12:18:48.467Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e8c03f3-d615-4866-bd08-af47f7da38d6",
+        "sun_sign": "Cancer",
+        "moon_sign": "Sagittarius",
+        "rising_sign": "Taurus",
+        "created_at": "2023-10-08T01:57:15.629Z",
+        "updated_at": "2023-10-08T00:37:28.979Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7c037d6-05aa-489d-99c4-97f51f9de533",
+        "sun_sign": "Leo",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Gemini",
+        "created_at": "2023-10-08T11:54:23.698Z",
+        "updated_at": "2023-10-08T13:16:41.063Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "7087587a-40cd-45c6-afa9-58180871c39b",
+        "name": "Emily White",
+        "experience_years": 37482,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-07T20:42:40.277Z",
+        "updated_at": "2023-10-08T00:10:54.354Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e086b841-98ef-459c-b0f9-ea2fb8130cea",
+        "name": "David Johnson",
+        "experience_years": 71979,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-08T12:55:50.489Z",
+        "updated_at": "2023-10-08T15:25:25.147Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "804348bb-c9df-4274-9078-97fb1a9cb862",
+        "name": "Sophia Brown",
+        "experience_years": 57879,
+        "specialization": "Health and Wellness",
+        "created_at": "2023-10-08T05:51:02.077Z",
+        "updated_at": "2023-10-08T06:21:09.828Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5ea62033-5f41-4b06-afbe-3233a39bf462",
+        "name": "Michael Davis",
+        "experience_years": 61600,
+        "specialization": "Astrology for Beginners",
+        "created_at": "2023-10-08T17:18:38.386Z",
+        "updated_at": "2023-10-08T15:17:59.921Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53ee83b1-81c1-4009-812f-8706fe5fcabd",
+        "name": "Olivia Wilson",
+        "experience_years": 52015,
+        "specialization": "Spiritual Guidance",
+        "created_at": "2023-10-07T22:52:23.366Z",
+        "updated_at": "2023-10-08T04:27:33.168Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "a7430d31-c147-4b3e-9f1a-b6cdf476309e",
+        "message": "Hello!",
+        "sent_at": "2023-10-08T17:35:25.146Z",
+        "created_at": "2023-10-08T04:33:39.699Z",
+        "updated_at": "2023-10-08T07:01:08.158Z",
+        "astrologer_id": "804348bb-c9df-4274-9078-97fb1a9cb862",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3627b481-e4c9-4b53-81f8-9c75b713ba68",
+        "message": "How can I assist you?",
+        "sent_at": "2023-10-07T19:28:39.726Z",
+        "created_at": "2023-10-07T20:34:44.893Z",
+        "updated_at": "2023-10-08T17:44:50.865Z",
+        "astrologer_id": "e086b841-98ef-459c-b0f9-ea2fb8130cea",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4c1db69-3058-40d8-bc86-fe4b092fcdeb",
+        "message": "What brings you here today?",
+        "sent_at": "2023-10-08T15:34:42.145Z",
+        "created_at": "2023-10-07T23:06:23.723Z",
+        "updated_at": "2023-10-08T03:04:53.484Z",
+        "astrologer_id": "53ee83b1-81c1-4009-812f-8706fe5fcabd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e82b968b-0107-4542-abda-09e6a4ae34af",
+        "message": "Tell me more about your situation.",
+        "sent_at": "2023-10-08T10:50:25.618Z",
+        "created_at": "2023-10-08T07:41:30.085Z",
+        "updated_at": "2023-10-08T09:35:05.691Z",
+        "astrologer_id": "804348bb-c9df-4274-9078-97fb1a9cb862",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8f34e54-b6e3-49d9-8ac9-55166abadca8",
+        "message": "I'm here to help.",
+        "sent_at": "2023-10-08T13:42:36.054Z",
+        "created_at": "2023-10-07T22:09:10.503Z",
+        "updated_at": "2023-10-08T13:15:06.488Z",
+        "astrologer_id": "804348bb-c9df-4274-9078-97fb1a9cb862",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f962cb4d-a429-4f9d-a425-b1c6b7d9915e",
+        "email": "Gus80@roq.tech",
+        "firstName": "Catherine",
+        "lastName": "Schowalter-Carroll",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58972074",
+        "tenantId": null
+      },
+      {
+        "reference": "e4582c2b-01d5-49c5-a3d7-a10fbf4abda6",
+        "email": "Coty30@roq.tech",
+        "firstName": "Kaelyn",
+        "lastName": "Halvorson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/88.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a8738e19-0860-4dc9-a519-74f849117791",
+        "email": "Clare.Koelpin99@roq.tech",
+        "firstName": "Precious",
+        "lastName": "Brekke-Legros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11486058",
+        "tenantId": null
+      },
+      {
+        "reference": "d6b30834-580e-491f-97af-54cdb1921e2c",
+        "email": "Heath_Hartmann58@roq.tech",
+        "firstName": "Devan",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4545131",
+        "tenantId": null
+      },
+      {
+        "reference": "8013adf8-4ba8-4a40-8d5f-183a529372b8",
+        "email": "Heather_Gorczany@roq.tech",
+        "firstName": "Jess",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44795024",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reading": [
+      {
+        "id": "364e36b0-5d09-4b86-b242-293866c6643d",
+        "date": "2023-10-08T03:46:17.096Z",
+        "duration": 85398,
+        "topic": "Love",
+        "created_at": "2023-10-08T00:41:12.797Z",
+        "updated_at": "2023-10-08T08:08:51.683Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cfccd256-db62-4f7c-8a9b-965622e69502",
+        "date": "2023-10-08T00:13:58.946Z",
+        "duration": 40621,
+        "topic": "Career",
+        "created_at": "2023-10-08T18:33:24.072Z",
+        "updated_at": "2023-10-07T20:53:14.216Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db87fc02-2612-4bd9-9def-5a69ca5bd64b",
+        "date": "2023-10-08T05:45:24.938Z",
+        "duration": 44082,
+        "topic": "Health",
+        "created_at": "2023-10-08T11:45:15.995Z",
+        "updated_at": "2023-10-07T23:39:10.684Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8391a62-8515-4f8d-a979-8b6f3622b664",
+        "date": "2023-10-07T23:55:17.821Z",
+        "duration": 6728,
+        "topic": "Finance",
+        "created_at": "2023-10-08T02:34:31.561Z",
+        "updated_at": "2023-10-08T17:16:47.611Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80f9e55a-4793-4115-bf1c-0052abb0e0f9",
+        "date": "2023-10-07T23:00:41.972Z",
+        "duration": 81266,
+        "topic": "Relationships",
+        "created_at": "2023-10-08T14:12:25.005Z",
+        "updated_at": "2023-10-07T23:13:34.212Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "c50492d9-9824-45a0-85f0-8d4c30593b70",
+        "sun_sign": "Aries",
+        "moon_sign": "Scorpio",
+        "rising_sign": "Libra",
+        "created_at": "2023-10-08T00:11:10.621Z",
+        "updated_at": "2023-10-08T15:29:03.561Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c327eb0-5db9-41e3-ac12-691916eea1fb",
+        "sun_sign": "Taurus",
+        "moon_sign": "Sagittarius",
+        "rising_sign": "Virgo",
+        "created_at": "2023-10-08T14:29:32.342Z",
+        "updated_at": "2023-10-08T18:50:24.299Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3d223654-9901-4ca5-955b-13bb99bd26ff",
+        "sun_sign": "Gemini",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Leo",
+        "created_at": "2023-10-08T17:01:17.980Z",
+        "updated_at": "2023-10-07T20:14:38.972Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54b59f35-d70a-4d52-9f10-ed2b8f9aa8e5",
+        "sun_sign": "Cancer",
+        "moon_sign": "Aquarius",
+        "rising_sign": "Cancer",
+        "created_at": "2023-10-07T20:50:53.284Z",
+        "updated_at": "2023-10-08T14:05:48.897Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b4b467f-a748-4386-b341-08146d3988ae",
+        "sun_sign": "Leo",
+        "moon_sign": "Pisces",
+        "rising_sign": "Gemini",
+        "created_at": "2023-10-08T11:10:32.051Z",
+        "updated_at": "2023-10-08T00:58:22.697Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "49c555c3-ff40-4ca3-87bb-5a74c5357979",
+        "name": "Emily Davis",
+        "experience_years": 55192,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-08T15:15:29.724Z",
+        "updated_at": "2023-10-08T13:51:14.195Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1d53882a-97b2-403b-946b-39bef895dd4b",
+        "name": "Christopher Roberts",
+        "experience_years": 82012,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-08T14:15:39.568Z",
+        "updated_at": "2023-10-07T19:32:27.203Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "672780af-fb2e-4563-9150-d08e3d84a527",
+        "name": "Olivia Thompson",
+        "experience_years": 46455,
+        "specialization": "Health and Wellness",
+        "created_at": "2023-10-08T02:06:37.721Z",
+        "updated_at": "2023-10-08T05:07:57.200Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f6a756b3-7d66-46b7-83bd-871c16396665",
+        "name": "Daniel Wilson",
+        "experience_years": 47327,
+        "specialization": "Astrology and Spirituality",
+        "created_at": "2023-10-08T15:25:08.760Z",
+        "updated_at": "2023-10-08T06:50:19.171Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "78fc721d-01ee-4c0d-b84e-c32a58a04a97",
+        "name": "Sophia Anderson",
+        "experience_years": 11372,
+        "specialization": "Personal Growth and Transformation",
+        "created_at": "2023-10-08T16:07:14.609Z",
+        "updated_at": "2023-10-08T17:12:54.747Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "0aa1d889-e081-4094-a395-6e0681328de3",
+        "message": "Hello",
+        "sent_at": "2023-10-08T02:01:39.246Z",
+        "created_at": "2023-10-08T08:53:26.223Z",
+        "updated_at": "2023-10-07T23:33:46.414Z",
+        "astrologer_id": "672780af-fb2e-4563-9150-d08e3d84a527",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e5c2c2a3-a007-4bd6-b3ad-c02b02f19f01",
+        "message": "How are you?",
+        "sent_at": "2023-10-08T14:58:42.947Z",
+        "created_at": "2023-10-08T04:07:58.338Z",
+        "updated_at": "2023-10-08T18:29:33.251Z",
+        "astrologer_id": "672780af-fb2e-4563-9150-d08e3d84a527",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9795cbd3-adcc-42f4-89fe-1c046040c4dd",
+        "message": "Nice to meet you",
+        "sent_at": "2023-10-08T09:33:50.844Z",
+        "created_at": "2023-10-08T10:58:21.426Z",
+        "updated_at": "2023-10-08T02:21:37.654Z",
+        "astrologer_id": "672780af-fb2e-4563-9150-d08e3d84a527",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cfb01f02-0b4d-426e-ba6b-60f28aa70fb6",
+        "message": "What's your opinion?",
+        "sent_at": "2023-10-08T01:09:08.695Z",
+        "created_at": "2023-10-08T09:11:05.766Z",
+        "updated_at": "2023-10-07T19:40:49.350Z",
+        "astrologer_id": "f6a756b3-7d66-46b7-83bd-871c16396665",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc29d543-70eb-493b-8c0c-b42a28236ab6",
+        "message": "I need your advice",
+        "sent_at": "2023-10-08T16:25:34.976Z",
+        "created_at": "2023-10-08T14:48:44.316Z",
+        "updated_at": "2023-10-08T04:14:22.614Z",
+        "astrologer_id": "f6a756b3-7d66-46b7-83bd-871c16396665",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4938ce90-8552-4a02-b7e1-1dfc5623ad12",
+        "email": "Antonietta_Mayert44@roq.tech",
+        "firstName": "April",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/198.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f35efbff-d025-425b-8a47-14e1c73c6c05",
+        "email": "Jovani.Greenholt98@roq.tech",
+        "firstName": "Adrain",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98667410",
+        "tenantId": null
+      },
+      {
+        "reference": "91fec8b5-ae76-4019-ad36-dadb902dcc49",
+        "email": "Clyde_Stokes-Murray64@roq.tech",
+        "firstName": "Edythe",
+        "lastName": "Pfeffer-Heller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/541.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "135dfdde-bc39-4d89-bcb0-45788f38629f",
+        "email": "Dedric.Fahey74@roq.tech",
+        "firstName": "Ofelia",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93360959",
+        "tenantId": null
+      },
+      {
+        "reference": "f85141d1-84bd-4567-8936-d9acb3da09f2",
+        "email": "Kory6@roq.tech",
+        "firstName": "Jessyca",
+        "lastName": "Smith",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15368316",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reading": [
+      {
+        "id": "8d57f45e-ed26-410d-8369-d5c83916c1a9",
+        "date": "2023-10-08T10:45:23.225Z",
+        "duration": 49327,
+        "topic": "Love",
+        "created_at": "2023-10-08T17:26:37.943Z",
+        "updated_at": "2023-10-07T19:53:33.192Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9173484f-8f8d-47a6-b7b8-f8f23ded5d21",
+        "date": "2023-10-08T12:36:41.632Z",
+        "duration": 94975,
+        "topic": "Career",
+        "created_at": "2023-10-08T00:42:27.793Z",
+        "updated_at": "2023-10-08T13:12:02.486Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7b3eb487-8579-441d-9030-c1ffb01db6c3",
+        "date": "2023-10-08T16:32:34.708Z",
+        "duration": 70636,
+        "topic": "Health",
+        "created_at": "2023-10-07T21:06:00.290Z",
+        "updated_at": "2023-10-08T16:02:05.193Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bab3f09-013c-4e21-9575-ee9cb7e7e18e",
+        "date": "2023-10-08T11:23:46.873Z",
+        "duration": 51606,
+        "topic": "Finance",
+        "created_at": "2023-10-08T00:53:18.728Z",
+        "updated_at": "2023-10-07T21:19:15.159Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f279db3-3adc-4faf-ad50-d50c59c72528",
+        "date": "2023-10-07T19:29:06.163Z",
+        "duration": 27638,
+        "topic": "Relationships",
+        "created_at": "2023-10-08T06:45:42.640Z",
+        "updated_at": "2023-10-08T00:27:03.533Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "d55ac743-845a-46aa-a425-eb1e24f359e2",
+        "sun_sign": "Aries",
+        "moon_sign": "Scorpio",
+        "rising_sign": "Libra",
+        "created_at": "2023-10-08T06:02:41.503Z",
+        "updated_at": "2023-10-08T15:44:28.181Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cfe3e56-272e-4e2f-87c7-31447bdc450f",
+        "sun_sign": "Taurus",
+        "moon_sign": "Sagittarius",
+        "rising_sign": "Virgo",
+        "created_at": "2023-10-07T20:39:44.216Z",
+        "updated_at": "2023-10-08T18:10:39.175Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59fd1cb3-b9cf-41db-b65e-89aa3a44a596",
+        "sun_sign": "Gemini",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Leo",
+        "created_at": "2023-10-08T03:15:49.462Z",
+        "updated_at": "2023-10-08T06:23:12.856Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a50a2711-367f-43fc-841d-2b4fd3ab8759",
+        "sun_sign": "Cancer",
+        "moon_sign": "Aquarius",
+        "rising_sign": "Cancer",
+        "created_at": "2023-10-08T02:24:52.961Z",
+        "updated_at": "2023-10-08T09:51:06.721Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7832cb6c-b275-40a7-998a-a08cf6235b41",
+        "sun_sign": "Leo",
+        "moon_sign": "Pisces",
+        "rising_sign": "Gemini",
+        "created_at": "2023-10-08T00:10:33.469Z",
+        "updated_at": "2023-10-08T05:09:06.720Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "90b274f4-9299-45b8-9106-cf5d003c78e3",
+        "name": "Emily Davis",
+        "experience_years": 12941,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-08T01:17:32.902Z",
+        "updated_at": "2023-10-08T15:49:16.102Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1a9e250-23fc-4d82-9801-251f04753244",
+        "name": "Michael Johnson",
+        "experience_years": 65248,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-08T07:05:10.920Z",
+        "updated_at": "2023-10-08T11:52:13.672Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b2d5e6c-292c-4f6e-8ef9-5466a1b65b16",
+        "name": "Sophia Thompson",
+        "experience_years": 21935,
+        "specialization": "Health and Wellness",
+        "created_at": "2023-10-08T00:39:03.642Z",
+        "updated_at": "2023-10-08T10:52:37.214Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87aa43f5-1b86-4320-9312-ed39101c1171",
+        "name": "Daniel Roberts",
+        "experience_years": 72842,
+        "specialization": "Astrology for Pets",
+        "created_at": "2023-10-08T17:26:04.313Z",
+        "updated_at": "2023-10-08T17:14:25.050Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f0738d4b-bf3e-4ddc-899a-dda5caed1e77",
+        "name": "Olivia Wilson",
+        "experience_years": 9053,
+        "specialization": "Spiritual Guidance",
+        "created_at": "2023-10-08T05:28:33.242Z",
+        "updated_at": "2023-10-08T01:49:38.258Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "c940450b-b815-41c0-962b-b60839327f9f",
+        "message": "Hello!",
+        "sent_at": "2023-10-08T02:03:17.123Z",
+        "created_at": "2023-10-08T07:28:07.476Z",
+        "updated_at": "2023-10-08T06:23:49.138Z",
+        "astrologer_id": "b1a9e250-23fc-4d82-9801-251f04753244",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2cec96f8-7f41-4cb2-a236-5c578ddb5450",
+        "message": "How can I assist you?",
+        "sent_at": "2023-10-08T07:29:28.064Z",
+        "created_at": "2023-10-08T10:36:17.607Z",
+        "updated_at": "2023-10-08T17:04:51.668Z",
+        "astrologer_id": "87aa43f5-1b86-4320-9312-ed39101c1171",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4249cab6-ccda-4c69-8b8f-cd91b84e968a",
+        "message": "I'm here to help.",
+        "sent_at": "2023-10-07T19:53:42.908Z",
+        "created_at": "2023-10-08T18:50:55.650Z",
+        "updated_at": "2023-10-07T22:40:26.707Z",
+        "astrologer_id": "b1a9e250-23fc-4d82-9801-251f04753244",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a41b5d52-5c76-4ff1-b8e9-bcf6a8f2a03e",
+        "message": "Let's explore your birth chart.",
+        "sent_at": "2023-10-07T21:33:28.284Z",
+        "created_at": "2023-10-08T06:22:01.817Z",
+        "updated_at": "2023-10-08T08:25:44.211Z",
+        "astrologer_id": "b1a9e250-23fc-4d82-9801-251f04753244",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5fd2e9d1-d17f-4376-99aa-9f7ad890d8d3",
+        "message": "Feel free to ask any questions.",
+        "sent_at": "2023-10-08T09:53:22.702Z",
+        "created_at": "2023-10-08T18:02:55.475Z",
+        "updated_at": "2023-10-07T20:37:31.901Z",
+        "astrologer_id": "b1a9e250-23fc-4d82-9801-251f04753244",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6a49571b-1ac5-41dd-ba4e-fdfd901e8f54",
+        "email": "Donnell_Doyle@roq.tech",
+        "firstName": "Bert",
+        "lastName": "D'Amore",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50701788",
+        "tenantId": null
+      },
+      {
+        "reference": "e866f74e-391e-4323-86e0-36b63e160b72",
+        "email": "Nathen28@roq.tech",
+        "firstName": "Kiarra",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/498.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "db995748-dd1e-4dfb-b598-0891d50f6c16",
+        "email": "Kacey_Collier@roq.tech",
+        "firstName": "Frida",
+        "lastName": "Kautzer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33043517",
+        "tenantId": null
+      },
+      {
+        "reference": "49e73e8f-24dc-4329-a49b-1c51e85d8105",
+        "email": "Haven.Braun2@roq.tech",
+        "firstName": "Bailey",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29459845",
+        "tenantId": null
+      },
+      {
+        "reference": "24df5862-78dc-47ac-896f-4b373fca028b",
+        "email": "Lolita3@roq.tech",
+        "firstName": "Demario",
+        "lastName": "Kozey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2812821",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reading": [
+      {
+        "id": "5906a1f9-10af-4d6c-8018-041cc4ed9645",
+        "date": "2023-10-08T05:27:38.783Z",
+        "duration": 55023,
+        "topic": "Love",
+        "created_at": "2023-10-08T12:50:03.185Z",
+        "updated_at": "2023-10-08T04:37:33.022Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc0ce3ec-6959-4206-af35-49d4cb5ab4c7",
+        "date": "2023-10-08T17:54:12.936Z",
+        "duration": 86995,
+        "topic": "Career",
+        "created_at": "2023-10-08T01:36:42.772Z",
+        "updated_at": "2023-10-07T19:14:14.588Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a5c48c7-73b7-4e2b-9eb1-020bd2d761cd",
+        "date": "2023-10-08T02:02:53.919Z",
+        "duration": 28434,
+        "topic": "Finance",
+        "created_at": "2023-10-07T19:40:52.071Z",
+        "updated_at": "2023-10-08T11:44:28.364Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "300d5424-957c-400c-b0be-17b4e81fa1da",
+        "date": "2023-10-08T18:45:49.130Z",
+        "duration": 2512,
+        "topic": "Health",
+        "created_at": "2023-10-08T10:19:13.152Z",
+        "updated_at": "2023-10-08T00:35:11.240Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f626871c-8eb7-4a52-8529-c132886a9ca7",
+        "date": "2023-10-08T14:17:40.741Z",
+        "duration": 1249,
+        "topic": "Relationship",
+        "created_at": "2023-10-08T16:26:05.651Z",
+        "updated_at": "2023-10-08T08:17:53.119Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "aeb4a85a-1a56-47aa-9581-32f63a686c49",
+        "sun_sign": "Leo",
+        "moon_sign": "Aries",
+        "rising_sign": "Virgo",
+        "created_at": "2023-10-08T09:57:58.801Z",
+        "updated_at": "2023-10-08T17:56:15.832Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bd27bb7-a408-492f-8794-422c79c76c3e",
+        "sun_sign": "Taurus",
+        "moon_sign": "Gemini",
+        "rising_sign": "Sagittarius",
+        "created_at": "2023-10-08T02:04:47.107Z",
+        "updated_at": "2023-10-08T08:33:31.366Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2b012009-d559-4201-bf86-d5e973e416bd",
+        "sun_sign": "Cancer",
+        "moon_sign": "Libra",
+        "rising_sign": "Leo",
+        "created_at": "2023-10-08T05:37:27.867Z",
+        "updated_at": "2023-10-08T10:24:20.562Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e04fced-8986-4239-9a1b-63b5b8f5fd80",
+        "sun_sign": "Scorpio",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Aries",
+        "created_at": "2023-10-08T11:07:39.572Z",
+        "updated_at": "2023-10-08T15:11:35.309Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66fc5d27-e6a0-4d14-aee3-3223fe459e26",
+        "sun_sign": "Aquarius",
+        "moon_sign": "Pisces",
+        "rising_sign": "Taurus",
+        "created_at": "2023-10-08T09:09:05.758Z",
+        "updated_at": "2023-10-08T01:24:59.906Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "45273bde-806b-44e6-8fbe-d035114f9e36",
+        "name": "Emily Brown",
+        "experience_years": 83223,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-07T19:27:31.810Z",
+        "updated_at": "2023-10-07T23:40:50.207Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ce805a2-f449-444e-b910-471004f06e69",
+        "name": "David Wilson",
+        "experience_years": 31517,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-08T11:45:15.881Z",
+        "updated_at": "2023-10-08T02:40:18.230Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "175d4f0c-6d7d-4d07-9122-97e08c55b862",
+        "name": "Sophia Johnson",
+        "experience_years": 31424,
+        "specialization": "Astrology for Health",
+        "created_at": "2023-10-08T06:29:41.558Z",
+        "updated_at": "2023-10-08T00:26:22.402Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "73027633-8591-4bcc-9aed-ae1165519133",
+        "name": "Michael Davis",
+        "experience_years": 38076,
+        "specialization": "Spiritual Guidance",
+        "created_at": "2023-10-08T06:16:55.112Z",
+        "updated_at": "2023-10-08T04:28:00.632Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7372a98-709f-46be-9cf0-f71fda71f751",
+        "name": "Olivia Thompson",
+        "experience_years": 94514,
+        "specialization": "Tarot Reading",
+        "created_at": "2023-10-08T11:58:23.042Z",
+        "updated_at": "2023-10-08T13:03:39.047Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "ff3c9a8a-6ac2-4b4f-a675-1570ceeed5bc",
+        "message": "Hello",
+        "sent_at": "2023-10-08T11:44:17.827Z",
+        "created_at": "2023-10-08T00:26:04.791Z",
+        "updated_at": "2023-10-08T18:33:09.580Z",
+        "astrologer_id": "45273bde-806b-44e6-8fbe-d035114f9e36",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9992578-d9fd-4e57-9d30-cc32e4ee289c",
+        "message": "How are you?",
+        "sent_at": "2023-10-08T06:40:32.023Z",
+        "created_at": "2023-10-08T03:37:04.586Z",
+        "updated_at": "2023-10-08T12:04:29.244Z",
+        "astrologer_id": "175d4f0c-6d7d-4d07-9122-97e08c55b862",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96368603-5bb6-4892-ba42-2042c03d9db3",
+        "message": "What's your opinion?",
+        "sent_at": "2023-10-08T13:35:52.810Z",
+        "created_at": "2023-10-07T20:59:36.459Z",
+        "updated_at": "2023-10-08T10:15:14.340Z",
+        "astrologer_id": "73027633-8591-4bcc-9aed-ae1165519133",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1edda458-3593-40e2-8092-9a7721a11ed1",
+        "message": "I need your advice",
+        "sent_at": "2023-10-08T01:48:00.688Z",
+        "created_at": "2023-10-08T07:59:26.763Z",
+        "updated_at": "2023-10-08T04:09:00.964Z",
+        "astrologer_id": "8ce805a2-f449-444e-b910-471004f06e69",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d10a1f6b-9215-4572-bc66-c331aed05a2f",
+        "message": "Can you help me?",
+        "sent_at": "2023-10-08T07:14:33.390Z",
+        "created_at": "2023-10-08T17:13:21.013Z",
+        "updated_at": "2023-10-07T21:28:10.161Z",
+        "astrologer_id": "175d4f0c-6d7d-4d07-9122-97e08c55b862",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a310351a-aeb8-4052-8f73-5327b2fa66e7",
+        "email": "Rodrick.Volkman8@roq.tech",
+        "firstName": "Kellie",
+        "lastName": "Wintheiser",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1034.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ec78ebee-b752-4b20-8ef1-03950bea2e60",
+        "email": "Delphia.Mayert89@roq.tech",
+        "firstName": "Velva",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1196.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5a7901f1-7b54-4c1a-8c4e-f7ea2f660263",
+        "email": "Otilia0@roq.tech",
+        "firstName": "Lesley",
+        "lastName": "Olson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/931.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dc29c0b2-0235-4b9d-9528-4fcea35ad7af",
+        "email": "Desiree.Yost-Moen@roq.tech",
+        "firstName": "Cecile",
+        "lastName": "Boehm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1106.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b37ca895-9614-44a2-814b-2078b72ac362",
+        "email": "Dovie.Frami-Becker18@roq.tech",
+        "firstName": "Alvena",
+        "lastName": "Kuphal",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50308529",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reading": [
+      {
+        "id": "c2997afa-d5c3-434a-b4bb-aceee4562f22",
+        "date": "2023-10-07T22:09:53.464Z",
+        "duration": 49522,
+        "topic": "Love",
+        "created_at": "2023-10-08T16:59:13.639Z",
+        "updated_at": "2023-10-08T07:48:07.029Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef538be4-e5ad-4d3a-87a9-6a8e492465ab",
+        "date": "2023-10-08T04:49:29.091Z",
+        "duration": 17769,
+        "topic": "Career",
+        "created_at": "2023-10-08T17:47:44.100Z",
+        "updated_at": "2023-10-08T11:01:47.790Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "88627bc2-8d90-4d94-b145-9c29c8569790",
+        "date": "2023-10-08T17:58:30.814Z",
+        "duration": 27662,
+        "topic": "Health",
+        "created_at": "2023-10-08T11:21:21.180Z",
+        "updated_at": "2023-10-08T00:46:21.236Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14564031-1b30-4abd-9fd5-a2d2aaab9ebf",
+        "date": "2023-10-07T23:32:40.263Z",
+        "duration": 1853,
+        "topic": "Finance",
+        "created_at": "2023-10-08T08:15:20.273Z",
+        "updated_at": "2023-10-08T06:11:00.051Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "003dddf3-9846-45e7-969d-c32ebd08f791",
+        "date": "2023-10-08T00:35:22.253Z",
+        "duration": 14992,
+        "topic": "Relationships",
+        "created_at": "2023-10-08T04:13:21.683Z",
+        "updated_at": "2023-10-08T18:19:09.439Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "edb9f009-32e0-49e6-94aa-3c1bf26d690f",
+        "sun_sign": "Aries",
+        "moon_sign": "Scorpio",
+        "rising_sign": "Libra",
+        "created_at": "2023-10-08T06:37:26.810Z",
+        "updated_at": "2023-10-08T14:16:43.162Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0bf9a22b-0722-405f-b204-78909f13a82a",
+        "sun_sign": "Taurus",
+        "moon_sign": "Sagittarius",
+        "rising_sign": "Virgo",
+        "created_at": "2023-10-07T21:56:03.629Z",
+        "updated_at": "2023-10-08T12:15:31.606Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9f27157-44c3-47da-aec0-373c2090666a",
+        "sun_sign": "Gemini",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Leo",
+        "created_at": "2023-10-08T08:49:03.696Z",
+        "updated_at": "2023-10-08T13:21:28.337Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25c2d5e3-c8a3-42c4-95cd-f1caa3766afe",
+        "sun_sign": "Cancer",
+        "moon_sign": "Aquarius",
+        "rising_sign": "Cancer",
+        "created_at": "2023-10-08T02:26:11.139Z",
+        "updated_at": "2023-10-08T06:02:53.050Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96736e5b-cc1d-452a-9b6f-7e4f9825a51a",
+        "sun_sign": "Leo",
+        "moon_sign": "Pisces",
+        "rising_sign": "Gemini",
+        "created_at": "2023-10-08T10:04:19.459Z",
+        "updated_at": "2023-10-08T17:30:14.411Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "79be7402-7864-4fa9-b631-22843ccd37d7",
+        "name": "Emily Davis",
+        "experience_years": 89439,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-07T22:40:19.318Z",
+        "updated_at": "2023-10-08T14:50:09.342Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7193aaf3-81cc-47cf-b065-3673110d33e8",
+        "name": "Daniel Johnson",
+        "experience_years": 95842,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-07T20:48:03.423Z",
+        "updated_at": "2023-10-08T01:32:41.339Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f7ea252-bf64-4efb-b9af-e50550c9011b",
+        "name": "Sophia Thompson",
+        "experience_years": 44368,
+        "specialization": "Health and Wellness",
+        "created_at": "2023-10-08T16:35:40.542Z",
+        "updated_at": "2023-10-08T01:09:41.030Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3aa6e91-ab87-41e2-99d1-900285c431fb",
+        "name": "Matthew Anderson",
+        "experience_years": 45205,
+        "specialization": "Astrology for Beginners",
+        "created_at": "2023-10-08T11:16:23.031Z",
+        "updated_at": "2023-10-08T11:11:29.218Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e888b909-8de5-4a57-8be8-52b68f66f050",
+        "name": "Olivia Clark",
+        "experience_years": 63443,
+        "specialization": "Spiritual Guidance",
+        "created_at": "2023-10-07T23:00:30.552Z",
+        "updated_at": "2023-10-08T09:40:05.167Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "bb208123-ad9b-4e2d-b5c3-22b4d22f5ed4",
+        "message": "Hello",
+        "sent_at": "2023-10-08T07:02:44.525Z",
+        "created_at": "2023-10-08T08:05:56.109Z",
+        "updated_at": "2023-10-08T13:12:40.601Z",
+        "astrologer_id": "79be7402-7864-4fa9-b631-22843ccd37d7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da9ca3f5-dad3-470b-9219-ce1d15b24555",
+        "message": "How are you?",
+        "sent_at": "2023-10-07T20:04:53.043Z",
+        "created_at": "2023-10-08T17:13:17.097Z",
+        "updated_at": "2023-10-07T23:38:23.489Z",
+        "astrologer_id": "e888b909-8de5-4a57-8be8-52b68f66f050",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7a2b664-09b8-4564-baa1-4da2dbe8f46a",
+        "message": "What's your opinion?",
+        "sent_at": "2023-10-07T22:49:49.109Z",
+        "created_at": "2023-10-07T20:25:06.794Z",
+        "updated_at": "2023-10-08T08:24:56.306Z",
+        "astrologer_id": "e3aa6e91-ab87-41e2-99d1-900285c431fb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "47e78074-be1f-4bf5-a570-41762e8aa1eb",
+        "message": "Can you help me?",
+        "sent_at": "2023-10-08T16:34:20.676Z",
+        "created_at": "2023-10-08T16:31:36.895Z",
+        "updated_at": "2023-10-08T03:22:05.970Z",
+        "astrologer_id": "8f7ea252-bf64-4efb-b9af-e50550c9011b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c53033c9-b595-4dc1-a440-8a61c2c33268",
+        "message": "Thank you",
+        "sent_at": "2023-10-07T23:56:15.049Z",
+        "created_at": "2023-10-08T14:07:45.994Z",
+        "updated_at": "2023-10-07T22:23:00.302Z",
+        "astrologer_id": "7193aaf3-81cc-47cf-b065-3673110d33e8",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ddb1eaca-009b-4418-b2f6-8eb152a9c9a6",
+        "email": "Cordie.Konopelski11@roq.tech",
+        "firstName": "Hilma",
+        "lastName": "Stamm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1038.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ab550e6a-0b33-49d8-bb21-4b70210e0e66",
+        "email": "Santa.Deckow@roq.tech",
+        "firstName": "Aglae",
+        "lastName": "Bode",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/345812",
+        "tenantId": null
+      },
+      {
+        "reference": "7f7e98a3-8fdb-4355-863e-b8b9f9a9eebd",
+        "email": "Zoila_Hegmann@roq.tech",
+        "firstName": "Jade",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86586839",
+        "tenantId": null
+      },
+      {
+        "reference": "421cbe3e-769a-444e-89d0-54767c3dbc70",
+        "email": "Brice_Hoeger@roq.tech",
+        "firstName": "Gregoria",
+        "lastName": "Hirthe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/270.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6ced931b-7ad5-446c-9ec9-8c5828fc03d7",
+        "email": "Etha_Berge@roq.tech",
+        "firstName": "Jewell",
+        "lastName": "Stiedemann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13602816",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reading": [
+      {
+        "id": "810e713d-6a9e-48fd-9bd5-3bc77c3a7a68",
+        "date": "2023-10-08T17:34:35.826Z",
+        "duration": 30951,
+        "topic": "Love",
+        "created_at": "2023-10-08T03:56:27.068Z",
+        "updated_at": "2023-10-08T18:07:25.258Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4163733e-2877-4bbb-a071-08866d111b9e",
+        "date": "2023-10-08T16:49:53.950Z",
+        "duration": 69725,
+        "topic": "Career",
+        "created_at": "2023-10-07T22:43:24.918Z",
+        "updated_at": "2023-10-07T21:38:01.518Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b10fa05c-fb79-482a-bb40-8f482d307301",
+        "date": "2023-10-08T16:49:39.602Z",
+        "duration": 91377,
+        "topic": "Finance",
+        "created_at": "2023-10-08T05:37:46.862Z",
+        "updated_at": "2023-10-08T05:09:46.850Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f84d735-559c-492e-be5f-ac36b3be717f",
+        "date": "2023-10-08T15:44:37.246Z",
+        "duration": 21838,
+        "topic": "Health",
+        "created_at": "2023-10-08T11:16:00.168Z",
+        "updated_at": "2023-10-08T15:57:51.234Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8fc0585b-fa95-4f98-b2e5-849a5e81be70",
+        "date": "2023-10-08T07:09:17.533Z",
+        "duration": 61936,
+        "topic": "Relationship",
+        "created_at": "2023-10-08T14:31:57.876Z",
+        "updated_at": "2023-10-07T19:33:04.715Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "8e433994-aa16-42f6-9055-04af0746c85b",
+        "sun_sign": "Aries",
+        "moon_sign": "Scorpio",
+        "rising_sign": "Libra",
+        "created_at": "2023-10-08T00:34:29.379Z",
+        "updated_at": "2023-10-08T09:12:23.156Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2910b20-322c-405d-8e2b-7fd190bdc4dd",
+        "sun_sign": "Taurus",
+        "moon_sign": "Sagittarius",
+        "rising_sign": "Virgo",
+        "created_at": "2023-10-07T21:36:54.066Z",
+        "updated_at": "2023-10-08T14:56:37.541Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bdee68cd-be00-4af8-9100-34568ebe0191",
+        "sun_sign": "Gemini",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Leo",
+        "created_at": "2023-10-08T01:36:22.600Z",
+        "updated_at": "2023-10-08T10:16:23.889Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc3bf6f3-9374-4a7e-a952-e8fa9fe31212",
+        "sun_sign": "Cancer",
+        "moon_sign": "Aquarius",
+        "rising_sign": "Cancer",
+        "created_at": "2023-10-08T06:23:24.464Z",
+        "updated_at": "2023-10-08T07:18:53.337Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "282ab1a6-bc98-4832-a625-db7428765952",
+        "sun_sign": "Leo",
+        "moon_sign": "Pisces",
+        "rising_sign": "Gemini",
+        "created_at": "2023-10-08T03:39:22.492Z",
+        "updated_at": "2023-10-08T06:28:14.677Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "763eadfa-1a48-412f-b792-40ac3f54d4a7",
+        "name": "Emily Anderson",
+        "experience_years": 72126,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-08T09:39:03.985Z",
+        "updated_at": "2023-10-08T18:15:53.549Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da6c7d1b-9350-4279-ae9a-274af0b87788",
+        "name": "David Johnson",
+        "experience_years": 6119,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-07T22:36:34.924Z",
+        "updated_at": "2023-10-08T12:41:44.802Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e7e0b34-5745-4f74-9255-e722a4a185de",
+        "name": "Sophia Martinez",
+        "experience_years": 24740,
+        "specialization": "Health and Wellness",
+        "created_at": "2023-10-08T17:19:44.243Z",
+        "updated_at": "2023-10-08T05:22:53.001Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "787f63c0-0463-4ec7-af28-64c16a08320c",
+        "name": "Daniel Thompson",
+        "experience_years": 268,
+        "specialization": "Spirituality and Meditation",
+        "created_at": "2023-10-08T09:52:49.430Z",
+        "updated_at": "2023-10-08T16:55:12.706Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a4d14ef-6031-4efa-9da3-b94c1796727b",
+        "name": "Olivia Davis",
+        "experience_years": 28464,
+        "specialization": "Astrology and Numerology",
+        "created_at": "2023-10-08T02:24:09.713Z",
+        "updated_at": "2023-10-08T01:13:53.568Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "d36c937b-03ed-49ca-a71c-b930dd1ad258",
+        "message": "Hello, how can I assist you?",
+        "sent_at": "2023-10-08T15:25:43.337Z",
+        "created_at": "2023-10-07T20:11:44.010Z",
+        "updated_at": "2023-10-08T00:16:07.731Z",
+        "astrologer_id": "6a4d14ef-6031-4efa-9da3-b94c1796727b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20567df4-13eb-4d7b-ab1d-681a464ebb9c",
+        "message": "I'm here to help you with your concerns.",
+        "sent_at": "2023-10-08T05:34:35.914Z",
+        "created_at": "2023-10-08T16:26:55.844Z",
+        "updated_at": "2023-10-08T18:09:21.929Z",
+        "astrologer_id": "da6c7d1b-9350-4279-ae9a-274af0b87788",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a1e9a2b-302e-44d9-b039-028ec55d24ae",
+        "message": "Feel free to ask any questions you have.",
+        "sent_at": "2023-10-08T11:07:52.309Z",
+        "created_at": "2023-10-08T02:40:00.778Z",
+        "updated_at": "2023-10-08T13:52:01.146Z",
+        "astrologer_id": "da6c7d1b-9350-4279-ae9a-274af0b87788",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f36bfaa3-4665-4812-bf39-a4b6214f46fb",
+        "message": "Let's explore the possibilities together.",
+        "sent_at": "2023-10-08T06:48:01.410Z",
+        "created_at": "2023-10-08T04:47:54.882Z",
+        "updated_at": "2023-10-08T13:01:16.839Z",
+        "astrologer_id": "6a4d14ef-6031-4efa-9da3-b94c1796727b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a1fbb92-bd51-42ed-860b-26dd1b4240f9",
+        "message": "I provide accurate and insightful readings.",
+        "sent_at": "2023-10-07T22:01:29.643Z",
+        "created_at": "2023-10-08T08:41:00.802Z",
+        "updated_at": "2023-10-08T00:48:07.596Z",
+        "astrologer_id": "0e7e0b34-5745-4f74-9255-e722a4a185de",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "15ea002d-4f7b-4a3f-83f2-b1db663069b3",
+        "email": "Sammie18@roq.tech",
+        "firstName": "Micah",
+        "lastName": "Zemlak",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1118.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5618c75a-cd4a-4e42-9707-92a45da60f25",
+        "email": "Alejandra_Kuhn48@roq.tech",
+        "firstName": "Eula",
+        "lastName": "Dooley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81026370",
+        "tenantId": null
+      },
+      {
+        "reference": "70ccaf39-f798-4a1a-9dba-c684ebb5e6cd",
+        "email": "Edwin_Murphy-Wunsch@roq.tech",
+        "firstName": "Allie",
+        "lastName": "Rolfson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53498594",
+        "tenantId": null
+      },
+      {
+        "reference": "a64f8926-91c8-4b0e-9c8a-778ec47430ad",
+        "email": "Daphney_Casper71@roq.tech",
+        "firstName": "Taryn",
+        "lastName": "Balistreri",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91204089",
+        "tenantId": null
+      },
+      {
+        "reference": "3acc85ad-8271-4313-9f2a-5caa9c3d9ee6",
+        "email": "Aliya_Rutherford82@roq.tech",
+        "firstName": "Esmeralda",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/564.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reading": [
+      {
+        "id": "3d35349a-80c3-4a0a-9b48-b9674b6930c5",
+        "date": "2023-10-08T04:25:34.974Z",
+        "duration": 80141,
+        "topic": "Love",
+        "created_at": "2023-10-07T22:10:43.523Z",
+        "updated_at": "2023-10-07T20:33:35.573Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c7b90061-de27-4cc2-ace0-c3eacb347fcb",
+        "date": "2023-10-08T16:30:32.143Z",
+        "duration": 90345,
+        "topic": "Career",
+        "created_at": "2023-10-08T17:41:10.193Z",
+        "updated_at": "2023-10-08T12:57:51.684Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "149098a2-d5d2-475e-a48c-94a03843da27",
+        "date": "2023-10-08T06:15:17.457Z",
+        "duration": 53963,
+        "topic": "Health",
+        "created_at": "2023-10-08T17:36:27.615Z",
+        "updated_at": "2023-10-08T04:21:56.169Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a2dffe17-6b78-4dda-8ced-b8b295452e14",
+        "date": "2023-10-08T08:41:56.037Z",
+        "duration": 81945,
+        "topic": "Finance",
+        "created_at": "2023-10-08T07:05:59.848Z",
+        "updated_at": "2023-10-07T22:06:18.435Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e91174f2-c1e9-43a2-9d7e-4e1dea71eb79",
+        "date": "2023-10-07T21:54:03.750Z",
+        "duration": 10749,
+        "topic": "Relationship",
+        "created_at": "2023-10-08T18:27:10.100Z",
+        "updated_at": "2023-10-08T04:42:45.095Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "3f18daa1-797e-496b-9563-ff4f8648d8ae",
+        "sun_sign": "Aries",
+        "moon_sign": "Scorpio",
+        "rising_sign": "Libra",
+        "created_at": "2023-10-08T15:05:13.100Z",
+        "updated_at": "2023-10-07T18:57:46.502Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae0d10e0-4da8-49e6-b1d2-a576b972e704",
+        "sun_sign": "Taurus",
+        "moon_sign": "Sagittarius",
+        "rising_sign": "Virgo",
+        "created_at": "2023-10-08T08:15:57.223Z",
+        "updated_at": "2023-10-08T04:40:42.409Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2e696c1-8c2d-4191-b786-bdbde8ad5652",
+        "sun_sign": "Gemini",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Leo",
+        "created_at": "2023-10-07T19:36:40.566Z",
+        "updated_at": "2023-10-08T04:32:48.280Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef274d7b-8e18-4642-a2c3-f4f5963b636f",
+        "sun_sign": "Cancer",
+        "moon_sign": "Aquarius",
+        "rising_sign": "Cancer",
+        "created_at": "2023-10-08T18:06:21.217Z",
+        "updated_at": "2023-10-07T21:42:15.149Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f4c5e4c-9a74-4018-aee1-7b6c0a11068b",
+        "sun_sign": "Leo",
+        "moon_sign": "Pisces",
+        "rising_sign": "Gemini",
+        "created_at": "2023-10-08T09:22:07.249Z",
+        "updated_at": "2023-10-07T21:12:35.832Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "68ff341e-ca54-455d-a6c7-104042412d52",
+        "name": "Emily Anderson",
+        "experience_years": 7103,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-08T10:13:41.799Z",
+        "updated_at": "2023-10-08T11:00:54.445Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82ea3f60-f2b7-4350-a635-903d67c2383f",
+        "name": "David Johnson",
+        "experience_years": 28017,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-07T23:50:34.046Z",
+        "updated_at": "2023-10-08T00:05:02.834Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c7f9176-f5a2-4a6c-932c-ae990debbfad",
+        "name": "Sophia Thompson",
+        "experience_years": 34174,
+        "specialization": "Health and Wellness",
+        "created_at": "2023-10-08T01:58:34.190Z",
+        "updated_at": "2023-10-08T18:19:30.963Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "88d97b4f-43f5-4cc4-bf0b-281bb22b66bc",
+        "name": "Daniel Martinez",
+        "experience_years": 54609,
+        "specialization": "Astrological Predictions",
+        "created_at": "2023-10-08T14:00:40.306Z",
+        "updated_at": "2023-10-07T19:31:04.103Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54c6a36b-0ae9-4f78-9236-4948b6a55ae2",
+        "name": "Olivia Davis",
+        "experience_years": 13280,
+        "specialization": "Spiritual Guidance",
+        "created_at": "2023-10-07T19:57:11.859Z",
+        "updated_at": "2023-10-07T19:45:06.129Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "ea385d14-3654-4434-a774-223443d6d925",
+        "message": "Hello!",
+        "sent_at": "2023-10-08T01:13:52.160Z",
+        "created_at": "2023-10-08T10:03:39.614Z",
+        "updated_at": "2023-10-08T01:59:06.020Z",
+        "astrologer_id": "68ff341e-ca54-455d-a6c7-104042412d52",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ed7bdd5-ee74-4dc1-9041-adf4e70e6124",
+        "message": "How can I assist you?",
+        "sent_at": "2023-10-07T22:12:19.712Z",
+        "created_at": "2023-10-08T03:54:03.705Z",
+        "updated_at": "2023-10-07T20:34:03.797Z",
+        "astrologer_id": "6c7f9176-f5a2-4a6c-932c-ae990debbfad",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "310e8f20-6943-46bf-99db-fa76a0a679dc",
+        "message": "I'm here to help.",
+        "sent_at": "2023-10-08T05:48:23.018Z",
+        "created_at": "2023-10-08T03:25:27.849Z",
+        "updated_at": "2023-10-08T07:02:19.820Z",
+        "astrologer_id": "6c7f9176-f5a2-4a6c-932c-ae990debbfad",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0778f2ee-94e4-4c90-baee-ee1928a20ca6",
+        "message": "Let's get started.",
+        "sent_at": "2023-10-08T03:48:57.705Z",
+        "created_at": "2023-10-08T01:01:18.952Z",
+        "updated_at": "2023-10-07T20:01:29.399Z",
+        "astrologer_id": "54c6a36b-0ae9-4f78-9236-4948b6a55ae2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "255651e3-6a00-41c7-abc0-f4d8ba6da0d9",
+        "message": "Feel free to ask any questions.",
+        "sent_at": "2023-10-07T22:41:16.552Z",
+        "created_at": "2023-10-08T10:42:15.094Z",
+        "updated_at": "2023-10-08T10:00:19.245Z",
+        "astrologer_id": "6c7f9176-f5a2-4a6c-932c-ae990debbfad",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a2e6453e-91d9-45f7-be13-1edcf842ca5e",
+        "email": "Tressa_Rodriguez31@roq.tech",
+        "firstName": "Crystel",
+        "lastName": "Gibson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/436.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c85b57ca-0e62-43e6-8b97-eb86a4b228e5",
+        "email": "Arch_Kilback@roq.tech",
+        "firstName": "Casey",
+        "lastName": "Rodriguez",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66848072",
+        "tenantId": null
+      },
+      {
+        "reference": "d6096499-e1c0-4fb3-9af4-73affcd9ed37",
+        "email": "Tia_Anderson26@roq.tech",
+        "firstName": "Andreane",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/81.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "923c958d-78c2-43b1-9246-b7d19c489868",
+        "email": "Chasity_Weber82@roq.tech",
+        "firstName": "Webster",
+        "lastName": "Stamm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61253081",
+        "tenantId": null
+      },
+      {
+        "reference": "58394dac-f71d-4203-9daa-aa7239787a91",
+        "email": "Modesta.Veum@roq.tech",
+        "firstName": "Russel",
+        "lastName": "Miller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/229.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reading": [
+      {
+        "id": "b5677eb6-a8d5-4632-8164-7cf5bfee3b45",
+        "date": "2023-10-08T01:05:44.291Z",
+        "duration": 37551,
+        "topic": "Love",
+        "created_at": "2023-10-08T02:11:19.746Z",
+        "updated_at": "2023-10-08T10:14:53.929Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e78441b-a6cd-4786-9f79-4821c3f89cdb",
+        "date": "2023-10-07T20:27:41.021Z",
+        "duration": 17828,
+        "topic": "Career",
+        "created_at": "2023-10-08T09:24:58.095Z",
+        "updated_at": "2023-10-08T11:18:15.135Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6509370d-e06d-4dce-8372-16754b466155",
+        "date": "2023-10-07T22:17:11.005Z",
+        "duration": 28683,
+        "topic": "Health",
+        "created_at": "2023-10-08T07:59:24.080Z",
+        "updated_at": "2023-10-08T03:54:49.765Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "79625106-9aa2-4697-b31f-7b08cfa78a0b",
+        "date": "2023-10-08T15:49:14.568Z",
+        "duration": 38294,
+        "topic": "Finance",
+        "created_at": "2023-10-08T09:25:51.907Z",
+        "updated_at": "2023-10-08T10:50:09.248Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1359ff4-eb9e-46bc-882f-4ebba5eeb095",
+        "date": "2023-10-08T17:59:19.245Z",
+        "duration": 95032,
+        "topic": "Relationships",
+        "created_at": "2023-10-07T23:52:16.378Z",
+        "updated_at": "2023-10-08T00:50:22.397Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "ef011a6c-4186-4b68-b3c5-25aac92a3213",
+        "sun_sign": "Aries",
+        "moon_sign": "Scorpio",
+        "rising_sign": "Libra",
+        "created_at": "2023-10-07T19:08:54.969Z",
+        "updated_at": "2023-10-08T13:26:09.876Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e39f41b-f2dd-4f92-b1a9-d63eb3cb638e",
+        "sun_sign": "Taurus",
+        "moon_sign": "Sagittarius",
+        "rising_sign": "Virgo",
+        "created_at": "2023-10-07T23:29:35.258Z",
+        "updated_at": "2023-10-08T02:53:34.004Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db5851e6-b528-4ab8-97d3-ace47782c561",
+        "sun_sign": "Gemini",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Leo",
+        "created_at": "2023-10-08T14:44:08.401Z",
+        "updated_at": "2023-10-08T18:04:40.882Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1afb4838-6dc1-4b8e-ac01-ba8926c209fb",
+        "sun_sign": "Cancer",
+        "moon_sign": "Aquarius",
+        "rising_sign": "Cancer",
+        "created_at": "2023-10-08T17:41:56.564Z",
+        "updated_at": "2023-10-08T12:26:55.657Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10a81e6d-eb8a-440d-9ae6-29af7514e7c0",
+        "sun_sign": "Leo",
+        "moon_sign": "Pisces",
+        "rising_sign": "Gemini",
+        "created_at": "2023-10-08T15:04:39.455Z",
+        "updated_at": "2023-10-08T16:17:17.062Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "c849a081-750d-41d5-bd1e-8872d40db941",
+        "name": "Emily Thompson",
+        "experience_years": 32718,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-08T12:08:40.578Z",
+        "updated_at": "2023-10-07T21:41:30.240Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee9abd82-2030-4fea-b103-60008985fb62",
+        "name": "Robert Johnson",
+        "experience_years": 61998,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-08T09:32:13.380Z",
+        "updated_at": "2023-10-08T01:09:40.467Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "62f0462e-01f4-4635-9e2c-72127e8f9ced",
+        "name": "Sophia Davis",
+        "experience_years": 49108,
+        "specialization": "Health and Wellness",
+        "created_at": "2023-10-08T08:54:45.624Z",
+        "updated_at": "2023-10-08T09:44:58.389Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a971fb4-2344-4537-869a-9efbbd1da095",
+        "name": "Daniel Martinez",
+        "experience_years": 27935,
+        "specialization": "Astrology and Spirituality",
+        "created_at": "2023-10-08T06:53:31.283Z",
+        "updated_at": "2023-10-08T15:19:19.791Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a6a921f-632a-4e9f-af9f-6ae863a2f5a9",
+        "name": "Olivia Wilson",
+        "experience_years": 90122,
+        "specialization": "Life and Destiny",
+        "created_at": "2023-10-08T10:14:35.991Z",
+        "updated_at": "2023-10-07T23:48:58.322Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "580ca03d-9622-46e0-b1ae-5aba21cd5747",
+        "message": "Hello",
+        "sent_at": "2023-10-08T09:48:50.978Z",
+        "created_at": "2023-10-08T00:30:22.987Z",
+        "updated_at": "2023-10-08T06:41:56.026Z",
+        "astrologer_id": "2a6a921f-632a-4e9f-af9f-6ae863a2f5a9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "77d84a58-bcd2-4db0-acb0-6c920be795ed",
+        "message": "How are you?",
+        "sent_at": "2023-10-08T16:50:28.277Z",
+        "created_at": "2023-10-08T01:34:10.902Z",
+        "updated_at": "2023-10-08T10:10:04.167Z",
+        "astrologer_id": "1a971fb4-2344-4537-869a-9efbbd1da095",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8912aa71-6325-4785-8005-4fb28c482c27",
+        "message": "What's your opinion?",
+        "sent_at": "2023-10-08T16:26:46.762Z",
+        "created_at": "2023-10-08T12:54:23.814Z",
+        "updated_at": "2023-10-08T00:50:52.929Z",
+        "astrologer_id": "1a971fb4-2344-4537-869a-9efbbd1da095",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e724104a-6747-463f-9d8f-adac9910f0b3",
+        "message": "Can you help me?",
+        "sent_at": "2023-10-08T11:52:23.896Z",
+        "created_at": "2023-10-07T23:31:40.981Z",
+        "updated_at": "2023-10-08T16:30:51.796Z",
+        "astrologer_id": "62f0462e-01f4-4635-9e2c-72127e8f9ced",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3534d07-08a8-46c7-9e43-edc5f0cdfa3a",
+        "message": "Thank you",
+        "sent_at": "2023-10-08T04:16:20.043Z",
+        "created_at": "2023-10-08T01:52:43.055Z",
+        "updated_at": "2023-10-08T14:14:50.683Z",
+        "astrologer_id": "ee9abd82-2030-4fea-b103-60008985fb62",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "353a4193-cb78-4206-8cd9-5c4f3390ec18",
+        "email": "Davion79@roq.tech",
+        "firstName": "Lera",
+        "lastName": "Wunsch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/9.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8f50f09b-93ce-4589-99a6-2d1cc25c78d4",
+        "email": "Meghan.Beier14@roq.tech",
+        "firstName": "Torrance",
+        "lastName": "Cassin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81252093",
+        "tenantId": null
+      },
+      {
+        "reference": "1dff664a-ceb9-41bf-804b-3354dd2a66cc",
+        "email": "Ferne61@roq.tech",
+        "firstName": "Marge",
+        "lastName": "Grant",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/807.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9a7f3fdb-8627-4ff5-851e-aa061842936f",
+        "email": "Suzanne_Friesen65@roq.tech",
+        "firstName": "Crystel",
+        "lastName": "Leuschke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/973.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dfcb6535-4a87-4394-9d8d-59043ea2f82b",
+        "email": "Meaghan72@roq.tech",
+        "firstName": "Trevion",
+        "lastName": "Sauer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3567747",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reading": [
+      {
+        "id": "183dfd28-fda0-485b-9ec4-e456dc0a43d2",
+        "date": "2023-10-08T13:11:22.118Z",
+        "duration": 68515,
+        "topic": "Love",
+        "created_at": "2023-10-08T12:35:35.651Z",
+        "updated_at": "2023-10-07T19:59:24.566Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e1ed79b-aee9-47e5-ae45-50b38c8ed2bf",
+        "date": "2023-10-08T07:30:22.798Z",
+        "duration": 1196,
+        "topic": "Career",
+        "created_at": "2023-10-08T02:49:27.799Z",
+        "updated_at": "2023-10-08T17:34:21.847Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13b9f19f-7f59-408b-8be4-6a63e0137686",
+        "date": "2023-10-07T22:02:38.672Z",
+        "duration": 72730,
+        "topic": "Finance",
+        "created_at": "2023-10-08T09:52:19.474Z",
+        "updated_at": "2023-10-08T10:22:36.883Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bde20c70-8c62-4289-9364-e80eaaa142a3",
+        "date": "2023-10-08T07:52:34.937Z",
+        "duration": 93808,
+        "topic": "Health",
+        "created_at": "2023-10-08T10:17:38.824Z",
+        "updated_at": "2023-10-08T07:20:36.514Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24671661-4b11-4ae7-94f0-0f483814ce63",
+        "date": "2023-10-07T21:12:56.731Z",
+        "duration": 59873,
+        "topic": "Relationship",
+        "created_at": "2023-10-07T23:08:58.413Z",
+        "updated_at": "2023-10-08T02:55:56.660Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "birthchart": [
+      {
+        "id": "cb2e05a8-985a-4c36-ac89-10a7c622d3d0",
+        "sun_sign": "Aries",
+        "moon_sign": "Scorpio",
+        "rising_sign": "Libra",
+        "created_at": "2023-10-08T10:56:36.915Z",
+        "updated_at": "2023-10-08T13:44:35.647Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ecc2d16e-ae8c-43e1-8500-f2fcf476732c",
+        "sun_sign": "Taurus",
+        "moon_sign": "Sagittarius",
+        "rising_sign": "Virgo",
+        "created_at": "2023-10-08T07:53:56.108Z",
+        "updated_at": "2023-10-08T05:58:49.596Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e34c3ee0-2156-4931-864d-ad94eaeb5f41",
+        "sun_sign": "Gemini",
+        "moon_sign": "Capricorn",
+        "rising_sign": "Leo",
+        "created_at": "2023-10-07T19:53:39.942Z",
+        "updated_at": "2023-10-08T06:02:09.525Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4fe6a63d-eea8-4806-83cb-44530d162a0e",
+        "sun_sign": "Cancer",
+        "moon_sign": "Aquarius",
+        "rising_sign": "Cancer",
+        "created_at": "2023-10-07T21:23:08.258Z",
+        "updated_at": "2023-10-08T13:27:07.825Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9351f5b-4279-4453-af78-d60dba06a1f6",
+        "sun_sign": "Leo",
+        "moon_sign": "Pisces",
+        "rising_sign": "Gemini",
+        "created_at": "2023-10-08T05:46:33.496Z",
+        "updated_at": "2023-10-08T06:54:44.045Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "astrologer": [
+      {
+        "id": "a1291ecc-e96a-437e-a8ac-e7e6a0dc0e71",
+        "name": "Emily Brown",
+        "experience_years": 94571,
+        "specialization": "Love and Relationships",
+        "created_at": "2023-10-08T04:32:00.561Z",
+        "updated_at": "2023-10-08T05:24:19.082Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7656e001-3752-4bd6-b392-dbd2986e9b55",
+        "name": "Daniel Johnson",
+        "experience_years": 55284,
+        "specialization": "Career and Finance",
+        "created_at": "2023-10-08T09:38:33.932Z",
+        "updated_at": "2023-10-07T22:12:36.540Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4824d79a-4259-455a-b85d-122e07c27b6a",
+        "name": "Sophia Davis",
+        "experience_years": 37461,
+        "specialization": "Health and Wellness",
+        "created_at": "2023-10-08T07:57:46.566Z",
+        "updated_at": "2023-10-08T09:37:21.563Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd15e225-2d56-456c-a177-38d5f4b75352",
+        "name": "Oliver Wilson",
+        "experience_years": 12227,
+        "specialization": "Astrology and Spirituality",
+        "created_at": "2023-10-08T03:11:24.165Z",
+        "updated_at": "2023-10-08T17:16:57.331Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac8b7284-c859-487d-9f48-2906e8408998",
+        "name": "Ava Thompson",
+        "experience_years": 60621,
+        "specialization": "Personal Growth and Transformation",
+        "created_at": "2023-10-08T13:20:04.267Z",
+        "updated_at": "2023-10-08T07:10:46.729Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat": [
+      {
+        "id": "c61898c5-8825-4f6f-993f-fc4fa731ab0c",
+        "message": "Hello",
+        "sent_at": "2023-10-07T19:16:56.697Z",
+        "created_at": "2023-10-08T10:14:54.195Z",
+        "updated_at": "2023-10-08T17:17:41.739Z",
+        "astrologer_id": "bd15e225-2d56-456c-a177-38d5f4b75352",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd5bddf8-6767-4033-ba99-83df9bcfe81c",
+        "message": "How are you?",
+        "sent_at": "2023-10-08T15:21:28.508Z",
+        "created_at": "2023-10-08T06:01:16.021Z",
+        "updated_at": "2023-10-07T22:59:10.806Z",
+        "astrologer_id": "a1291ecc-e96a-437e-a8ac-e7e6a0dc0e71",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5fa08cec-7eef-42f5-a745-454d686761c5",
+        "message": "Nice to meet you",
+        "sent_at": "2023-10-08T02:54:41.922Z",
+        "created_at": "2023-10-08T03:06:07.704Z",
+        "updated_at": "2023-10-08T10:00:50.541Z",
+        "astrologer_id": "7656e001-3752-4bd6-b392-dbd2986e9b55",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50f2d4c7-7d3c-49b5-9d94-b560f6ed85c3",
+        "message": "What do you think?",
+        "sent_at": "2023-10-07T22:23:02.831Z",
+        "created_at": "2023-10-08T10:24:03.902Z",
+        "updated_at": "2023-10-07T22:23:13.734Z",
+        "astrologer_id": "7656e001-3752-4bd6-b392-dbd2986e9b55",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "629ec171-cc0c-4327-bc69-f62336405362",
+        "message": "Have a great day!",
+        "sent_at": "2023-10-08T11:29:09.101Z",
+        "created_at": "2023-10-08T05:05:32.801Z",
+        "updated_at": "2023-10-08T10:19:08.734Z",
+        "astrologer_id": "4824d79a-4259-455a-b85d-122e07c27b6a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8e80d723-f687-4ad6-bf76-8958ba8322d8",
+        "email": "Adrain.Effertz@roq.tech",
+        "firstName": "Horace",
+        "lastName": "Wunsch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1161.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6ec2dcbe-ce42-4b7b-8fe3-a89df92a93ab",
+        "email": "Lina.Bruen81@roq.tech",
+        "firstName": "Brooke",
+        "lastName": "Boyle",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17950001",
+        "tenantId": null
+      },
+      {
+        "reference": "2cea54f2-94a2-4869-9c10-f7d97e1c1df7",
+        "email": "Kenton55@roq.tech",
+        "firstName": "Terry",
+        "lastName": "Ebert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15286885",
+        "tenantId": null
+      },
+      {
+        "reference": "b882c1a5-10ee-4434-ad7b-e2456b6260b6",
+        "email": "Johnathon_Flatley@roq.tech",
+        "firstName": "Ettie",
+        "lastName": "Gleason",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/972.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "421b9f90-a8ce-4bd2-9690-12f74f1cf748",
+        "email": "Agustina_Turner10@roq.tech",
+        "firstName": "Ashtyn",
+        "lastName": "Cassin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70156292",
+        "tenantId": null
+      }
+    ]
+  }
+]
